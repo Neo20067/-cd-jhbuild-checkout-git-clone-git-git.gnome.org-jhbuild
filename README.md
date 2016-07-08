@@ -1,0 +1,1 @@
+# -cd-jhbuild-checkout-git-clone-git-git.gnome.org-jhbuild
